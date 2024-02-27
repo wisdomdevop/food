@@ -66,7 +66,7 @@ function details(id) {
             <h3>Wanna Watch it On youtube?? <br/>
             <a href="${meal.strYoutube}">Click here</a>
             </h3>
-            <blockquote id="savrecipe">From SavRecipe</blockquote>
+            <blockquote id="savrecipe">From LA COOK</blockquote>
 
            
         </ul>
