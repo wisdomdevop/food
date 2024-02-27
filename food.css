@@ -179,3 +179,9 @@ h1{
     font-weight: bolder;
     font-size: larger; 
 }
+#savrecipe{
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    font-size:large;
+}
