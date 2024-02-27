@@ -123,9 +123,14 @@ h1{
 }
 .card ul h3{
     color:white;
+    margin-top:20px;
+    margin-bottom:10px;
+    text-align:center;
 } 
 .card ul h3 a{
     color:white;
+     margin-bottom:10px;
+    
 }
 
 
@@ -180,6 +185,7 @@ h1{
     font-size: larger; 
 }
 #savrecipe{
+    margin-top:20px;
     color:white;
     text-align:center;
     font-weight:bold;
