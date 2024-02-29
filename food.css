@@ -74,6 +74,7 @@ body{
     transform: ease-in 1s;
     font-size: large;
     width:25%;
+    text-align:center;
 }
 #button:hover{
     transition: ease-out 1s;
@@ -151,10 +152,11 @@ h1{
         width:50%;
     }
     #inputName{
-        width:70%;
+        width:65%;
     }
     #button{
-        width:30%;
+        width:35%;
+        text-align:center
     }
     #form{
         width:75%;
